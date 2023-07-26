@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=500&color=F7F7F7&vCenter=true&width=550&height=29&lines=Ol%C3%A1!+Bem+vindo+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-<img align="center" position= "absolute" alt="Flutter" height="450" width="100%" 
+<img align="center" position= "absolute" alt="Flutter" height="400" width="100%" 
     src="https://github.com/jpDEVsekiro/jpDEVsekiro/assets/71463029/dd6e2009-0f18-49d1-9de2-7e43b68b5325">
 </div>
 
