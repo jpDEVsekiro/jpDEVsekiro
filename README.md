@@ -1,19 +1,23 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=500&color=F7F7F7&vCenter=true&width=550&height=29&lines=Ol%C3%A1!+Bem+vindo+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<div Align="center" ><a href="https://git.io/typing-svg"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=&size=25&duration=4000&pause=500&color=F7F7F7&width=550&lines=Ol%C3%A1!+Bem+vindo+ao+meu+perfil+%F0%9F%91%8B" alt="Typing SVG" /></a></div>
 
-<img align="center" position= "absolute" alt="Flutter" height="400" width="100%" 
+
+<img align="center" position= "absolute" alt="Flutter" height="380" width="100%" 
     src="https://github.com/jpDEVsekiro/jpDEVsekiro/assets/71463029/dd6e2009-0f18-49d1-9de2-7e43b68b5325">
+    
+<div Align="center">
+    <img src="https://komarev.com/ghpvc/?username=your-github-jpDEVsekiro&color=blueviolet">
+    <img src="https://badges.pufler.dev/repos/jpDEVsekiro"/>
+    <img src="https://badges.pufler.dev/commits/monthly/jpDEVsekiro" />
 </div>
 
   ##
 
-
+<p align="center">
 Sou desenvolvedor mobile pleno com 2 anos e meio de experiência na área, com foco na tecnologia Flutter e Dart. Possuo conhecimento desde o início do desenvolvimento de uma aplicação até seu lançamento.
 Trabalho com aplicativos para Android e IOS, criação e manutenção de APIs com .NET e C#, utilizando os bancos de dados MongoDB e SQL. Sou uma pessoa focada em resolução de problemas e trabalho bem em equipe.
+</p>
 
-- 🔭 Hoje trabalho como desenvolvedor mobile com Flutter
-- 🌱 Atualmente estou aprendendo Android nativo
-
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="center"><br>
   <img align="center" alt="Flutter" height="30" width="40" 
     src="https://github.com/jpDEVsekiro/jpDEVsekiro/assets/71463029/d61f9531-bc1c-4a90-8268-4d912602cd09">
   <img align="center" alt="Dart" height="30" width="40" 
@@ -34,8 +38,10 @@ Trabalho com aplicativos para Android e IOS, criação e manutenção de APIs co
 
   ##
 
-  <div> 
+  <div align="center"> 
   <a href = "mailto:devjpdesenvolver@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-pedro--/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href="https://wa.me/5511959991724" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
+<br/>
+<div Align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=jpDEVsekiro&theme=dracula"></div>
