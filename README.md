@@ -13,7 +13,7 @@
   ##
 
 <p align="center">
-Sou desenvolvedor mobile pleno com 2 anos e meio de experiência na área, com foco na tecnologia Flutter e Dart. Possuo conhecimento desde o início do desenvolvimento de uma aplicação até seu lançamento.
+Sou desenvolvedor mobile pleno com 3 anos e meio de experiência na área, com foco na tecnologia Flutter e Dart. Possuo conhecimento desde o início do desenvolvimento de uma aplicação até seu lançamento.
 Trabalho com aplicativos para Android e IOS, criação e manutenção de APIs com .NET e C#, utilizando os bancos de dados MongoDB e SQL. Sou uma pessoa focada em resolução de problemas e trabalho bem em equipe.
 </p>
 
