@@ -6,8 +6,8 @@
     
 <div Align="center">
     <img src="https://komarev.com/ghpvc/?username=your-github-jpDEVsekiro&color=blueviolet">
-    <img src="https://badges.pufler.dev/repos/jpDEVsekiro"/>
-    <img src="https://badges.pufler.dev/commits/monthly/jpDEVsekiro" />
+    <img src="https://badges.pufler.dev/repos/jpDEVsekiro&color=blueviolet"/>
+    <img src="https://badges.pufler.dev/commits/monthly/jpDEVsekiro&color=blueviolet" />
 </div>
 
   ##
