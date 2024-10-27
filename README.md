@@ -5,9 +5,9 @@
     src="https://github.com/jpDEVsekiro/jpDEVsekiro/assets/71463029/dd6e2009-0f18-49d1-9de2-7e43b68b5325">
     
 <div Align="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-jpDEVsekiro&color=blueviolet">
-    <img src="https://badges.pufler.dev/repos/jpDEVsekiro&color=blueviolet"/>
-    <img src="https://badges.pufler.dev/commits/monthly/jpDEVsekiro&color=blueviolet" />
+    <img src="https://komarev.com/ghpvc/?username=your-github-jpDEVsekiro&color=44cc11">
+    <img src="https://badges.pufler.dev/repos/jpDEVsekiro"/>
+    <img src="https://img.shields.io/github/commit-activity/m/jpDEVsekiro/gengar_dex?style=flat&color=#4c1" />
 </div>
 
   ##
