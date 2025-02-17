@@ -44,4 +44,3 @@ Trabalho com aplicativos para Android e IOS, criação e manutenção de APIs co
  <a href="https://wa.me/5511959991724" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
 </div>
 <br/>
-<div Align="center"><img src="http://github-readme-streak-stats.herokuapp.com?user=jpDEVsekiro&theme=dracula"></div>
